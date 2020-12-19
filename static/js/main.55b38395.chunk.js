@@ -1,2 +1,0 @@
-(this["webpackJsonpmilad.github.io"]=this["webpackJsonpmilad.github.io"]||[]).push([[0],{9:function(t,e,i){"use strict";i.r(e);var n=i(0),c=i(1),r=i.n(c),d=i(3);var s=function(){return Object(n.jsx)("div",{children:Object(n.jsx)("h1",{children:"Milad E. Fahmy"})})};i.n(d).a.render(Object(n.jsx)(r.a.StrictMode,{children:Object(n.jsx)(s,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.55b38395.chunk.js.map
