@@ -1,2 +1,0 @@
-(this["webpackJsonpmilad.github.io"]=this["webpackJsonpmilad.github.io"]||[]).push([[0],{10:function(e,t,i){},11:function(e,t,i){"use strict";i.r(t);var n=i(0),c=i(1),a=i.n(c),r=i(3),s=i.n(r);i(9),i(10);var d=function(){return Object(n.jsx)("div",{className:"App",children:Object(n.jsx)("header",{className:"App-header",children:"Milad E. Fahmy"})})};s.a.render(Object(n.jsx)(a.a.StrictMode,{children:Object(n.jsx)(d,{})}),document.getElementById("root"))},9:function(e,t,i){}},[[11,1,2]]]);
-//# sourceMappingURL=main.410639bb.chunk.js.map
