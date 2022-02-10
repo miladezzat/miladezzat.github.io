@@ -1,0 +1,23 @@
+{
+  "name": "miladezzat.github.io",
+  "version": "1.0.0",
+  "description": "I am a Full Stack Web Developer",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve docs"   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladezzat/miladezzat.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miladezzat/miladezzat.github.io/issues"
+  },
+  "homepage": "https://github.com/miladezzat/miladezzat.github.io#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
