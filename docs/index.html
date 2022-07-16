@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
-  <meta property="og:title" content="Intermediate nodejs course" />  
+  <meta property="og:title" content="Intermediate nodejs course" />
   <meta property="og:url" content="https://miladezzat.github.io" />
   <meta property="og:image" content="https://miladezzat.github.io/images/node-js.png" />
 
@@ -19,7 +19,6 @@
   <meta name="twitter:image" content="https://miladezzat.github.io/images/node-js.png">
   <meta name="twitter:card" content="https://miladezzat.github.io/images/node-js.png">
   <meta name="google-site-verification" content="jzQS4lDN6IWLHkasFDEOJuX_YBg2uJ68vZVhkHYGdcM" />
-
 </head>
 
 <body>
@@ -33,8 +32,16 @@
       subMaxLevel: 2,
       notFoundPage: true,
       logo: '/images/logo.jpeg',
+      pagination: {
+        previousText: 'Prev',
+        nextText: "Next",
+        crossChapter: true,
+        crossChapterText: true,
+      },
     }
   </script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
